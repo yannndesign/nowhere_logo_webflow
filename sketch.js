@@ -182,7 +182,7 @@ slider1 = new Slider(windowWidth*0.25, height-55, 150, 12, 50, 20, 2, [220, 220,
 }
 
 function draw() {
-  background(255);
+  background(235);
   
   push(); 
   textSize(15);
